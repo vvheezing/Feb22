@@ -1,0 +1,64 @@
+
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+    font-size: 45px;
+    align-content: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 35px;
+   
+}
+
+p {
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+    
+    
+}
+
+
+/*********************************************************************
+  YOUR DESKTOP-ONLY STYLES GO HERE
+*********************************************************************/
+@media(min-width: 729px) {
+    /* Any adjustments for desktop and larger go here.
+    Note these styles will be applied to anything 729px or larger -- so desktop */
+
+  
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+    font-size: 45px;
+    align-content: center;
+}
+
+h2 {
+    text-align: left;
+    font-size: 35px;
+    color: gray;
+   
+}
+
+
+
+p {
+    text-align: left;
+
+}
+
+p {
+    text-align: left;
+   
+    
+}
+}
+
